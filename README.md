@@ -1,4 +1,9 @@
 # SerDes-whitepaper
+Author Profile: The Project Lead for this White Paper is based at Geely Auto Group; we warmly welcome you to visit Geely for further exchange and discussion.
+
+We are deeply grateful for the professional support we have received from everyone involved. Since its inception on February 9, 2026, the project has undergone several months of intensive collaborative effort, culminating in the official finalization of this White Paper on April 30. We extend our sincere thanks to all participating organizations and team members for their professional dedication and unwavering support, which enabled us to collectively achieve this significant milestone amidst a fast-paced and demanding schedule. We offer our heartfelt appreciation and look forward to continuing our collaboration to jointly drive the advancement of the industry.
+
+
 During the 2026 Beijing Auto Show, the Geely Automobile Research Institute—in collaboration with a national-level center, dozens of global chip manufacturers, the SerDes public protocol alliances (802.3dm, ASA, APHY, HSMT, OPENGMSL), and various universities—released the *White Paper on the Development of Automotive SerDes Technology*.
 
 With the gradual proliferation of intelligent vehicles, high-speed data communication plays a pivotal role. High-speed data communication is generally categorized into two main types:
